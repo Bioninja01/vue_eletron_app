@@ -1,4 +1,4 @@
-# 3d_app
+# Vuejs Eletron App
 
 An Electron application with Vue
 
